@@ -1,0 +1,11 @@
+C:\Windows.old\Users\makiy\Desktop\HiLCoE\Practice\C++\Games\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Windows.old\Users\makiy\Desktop\HiLCoE\Practice\C++\Games\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Windows.old\Users\makiy\Desktop\HiLCoE\Practice\C++\Games\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Windows.old\Users\makiy\Desktop\HiLCoE\Practice\C++\Games\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Windows.old\Users\makiy\Desktop\HiLCoE\Practice\C++\Games\CRUD\CRUD\obj\Debug\CRUD.csproj.SuggestedBindingRedirects.cache
+C:\Windows.old\Users\makiy\Desktop\HiLCoE\Practice\C++\Games\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Windows.old\Users\makiy\Desktop\HiLCoE\Practice\C++\Games\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Windows.old\Users\makiy\Desktop\HiLCoE\Practice\C++\Games\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Windows.old\Users\makiy\Desktop\HiLCoE\Practice\C++\Games\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Windows.old\Users\makiy\Desktop\HiLCoE\Practice\C++\Games\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Windows.old\Users\makiy\Desktop\HiLCoE\Practice\C++\Games\CRUD\CRUD\obj\Debug\CRUD.pdb
